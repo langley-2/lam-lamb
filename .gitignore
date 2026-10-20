@@ -1,0 +1,13 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.env*
+*.tar.gz
+.vercel/
+screenshots/
+.DS_Store
+.openai/
+.aws/
+*.pem
+*.key
